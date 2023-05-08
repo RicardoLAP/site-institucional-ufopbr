@@ -1,0 +1,212 @@
+<style>
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+th, td {
+text-align: left;
+padding: 8px;
+border: 1px solid #ddd;
+}
+
+th {
+background-color: #4CAF50;
+color: white;
+}
+
+tr:nth-child(even) {
+background-color: #f2f2f2;
+}
+</style>
+
+
+<table>
+<thead>
+<tr>
+    <th>Data</th>
+    <th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td></td>
+    <td>* Cronograma publicado em 05/04/2023. Alterado em 26/04/2023.</strong></td>
+</tr>
+<tr>
+    <td>05/09/2023</td>
+    <td>Publicação dos pareceres finais: verificação da renda familiar: 3ª chamada(reservas de vagas L1, L2 e L10)</td>
+</tr>
+<tr>
+    <td>04/09/2023</td>
+    <td>Publicação dos pareceres finais: verificação/validação da documentação comprobatória da deficiência 
+        (reservas de vagas L10 e L14): 3ª chamada</td>
+</tr>
+<tr>
+    <td>28/08/2023</td>
+    <td>Publicação dos pareceres finais: validações dos termos de autodeclaração étnico-racial
+        (reservas de vagas L2, L6, L10 e L14): 3ª chamada</td>
+</tr>
+<tr>
+    <td>De 17/08 a
+        23/08/2023</td>
+    <td>Prazo para pedido de reavaliação: verificação da renda familiar (reservas de vagas L1, L2 e L10): 3ª chamada</td>
+</tr>
+<tr>
+    <td>De 17/08 a 23/08/2023</td>
+    <td>Prazo para pedido de reavaliação: documentação comprobatória da deficiência
+        (reservas de vagas L10 e L14) : 3ª chamada</td>
+</tr>
+<tr>
+    <td>16/08/2023</td>
+    <td>Publicação da portaria de resultados dos procedimentos de verificação/validação da renda familiar
+        (reservas de vagas L1, L2 e L10): 3ª chamada</td>
+</tr>
+<tr>
+    <td>16/08/2023</td>
+    <td>Publicação da portaria de resultados dos procedimentos de verificação/validação da 
+        documentação comprobatória da deficiência (reservas de vagas L10 e L14): 3ª chamada</td>
+</tr>
+<tr>
+    <td>De 16/08 a 17/08/2023</td>
+    <td>Prazo para pedido de reavaliação: Autodeclaração étnico-racial (reservas de vagas L2, L6, L10 e L14): 3ª chamada</td>
+</tr>
+<tr>
+    <td>15/08/2023</td>
+    <td>Publicação da portaria de resultados dos procedimentos de validação dos termos de autodeclaração
+        étnico-racial (reservas    de vagas L2, L6, L10 e L14): 3ª chamada</td>
+</tr>
+<tr>
+    <td></td>
+    <td><strong>Início do período letivo: 14 de agosto de 2023</strong></td>
+</tr>
+<tr>
+    <td>25/07/2023</td>
+    <td>Publicação do resultado final da verificação documental: “matrícula registrada” ou 
+        “matrícula não registrada”:3ª chamada
+    </td>
+</tr>
+<tr>
+    <td>De 18/07 a 20/07/2023</td>
+    <td>Prazo para pedido de reavaliação/anexação de documentos necessários ao registro da matrícula: 3ª chamada</td>
+</tr>
+<tr>
+    <td>18/07/2023</td>
+    <td>Publicação do resultado da verificação documental: “matrícula registrada” ou “matrícula não registrada”: 3ª chamada</td>
+</tr>
+<tr>
+    <td>De 12/07 a 14/07/2023</td>
+    <td>Terceira chamada para matrículas
+        Encerramento das chamadas do processo seletivo
+        Matrículas da 3ª chamada
+        Apresentação de cópias de documentos pessoais, declarações e documentos comprobatórios relativos às reservas
+            da Lei de     Cotas, de acordo com o tipo de ingresso do(a) candidato(a) no curso.
+            Forma de apresentação dos documentos: via formulário eletrônico para matrícula, de acordo com a modalidade
+            de concorrência, curso e polo de apoio presencial</td>
+</tr>
+<tr>
+    <td>11/07/2023</td>
+    <td>Publicação dos pareceres finais: verificação da renda familiar: 1ª à 2ª chamada(reservas de vagas L1, L2 e L10)</td>
+</tr>
+<tr>
+    <td>11/07/2023</td>
+    <td>Publicação dos pareceres finais: verificação/validação da documentação comprobatória da deficiência
+        (reservas de vagas L10 e L14): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>04/07/2023</td>
+    <td>Publicação dos pareceres finais: validações dos termos de autodeclaração étnico-racial (reservas de vagas 
+        L2, L6, L10 e   L14): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>De 22/06 a
+        28/06/2023</td>
+    <td>Prazo para pedido de reavaliação: verificação da renda familiar (reservas de vagas L1, L2 e L10): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>De 22/06 a 28/06/2023</td>
+    <td>Prazo para pedido de reavaliação: documentação comprobatória da deficiência
+    (reservas de vagas L10 e L14) : 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>21/06/2023</td>
+    <td>Publicação da portaria de resultados dos procedimentos de validação da renda familiar 
+        (reservas de vagas L1, L2e L10): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>21/06/2023</td>
+    <td>Publicação da portaria de resultados dos procedimentos de validação da documentação comprobatória da deficiência (reservas de vagas L10 e L14): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>De 21/06 a 22/06/2023</td>
+    <td>Prazo para pedido de reavaliação: Autodeclaração étnico-racial (reservas de vagas L2, L6, L10 e L14): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>20/06/2023</td>
+    <td>Publicação da portaria de resultados dos procedimentos de validação dos termos de autodeclaração étnico-racial (reservas de vagas L2, L6, L10 e L14): 1ª à 2ª chamada</td>
+</tr>
+<tr>
+    <td>30/05/2023</td>
+    <td>Publicação do resultado final da verificação documental: “matrícula registrada” ou “matrícula não registrada”:
+        2ª chamada</td>
+</tr>
+<tr>
+    <td>De 24/05 a 26/05/2023</td>
+    <td>Prazo para pedido de reavaliação/anexação de documentos necessários ao registro da matrícula: 2ª chamada</td>
+</tr>    
+<tr>
+    <td>24/05/2023</td>
+    <td>Publicação do resultado da verificação documental: “matrícula registrada” ou “matrícula não registrada”: 2ª chamada</td>
+</tr>
+<tr>
+    <td>De 16/05 a 19/05/2023</td>
+    <td>Matrículas da 2ª chamada
+        Apresentação de cópias de documentos pessoais, declarações e documentos comprobatórios relativos às reservas da Lei de Cotas, de acordo com o tipo de ingresso do(a) candidato(a) no curso.
+        Forma de apresentação dos documentos: via formulário eletrônico para matrícula, de acordo com a modalidade de concorrência, curso e polo de apoio presencial</td>
+</tr>
+<tr>
+    <td>16/05/2023</td>
+    <td>Segunda chamada para matrículas</td>
+</tr>
+<tr>
+    <td>15/05/2023</td>
+    <td>Publicação do resultado final da verificação documental: “matrícula registrada” ou “matrícula não registrada”:1ªchamada
+    </td>
+</tr>
+<tr>
+    <td>De 09/05 a 11/05/2023</td>
+    <td>Prazo para pedido de reavaliação/anexação de documentos necessários ao registro da matrícula: 1ªchamada</td>
+</tr>
+<tr>
+    <td>09/05/2023A</td>
+    <td>Publicação do resultado da verificação documental: “matrícula registrada” ou “matrícula não registrada”: 1ªchamada</td>
+</tr>
+<tr>
+    <td>15/02 a 18/02/2022</td>
+    <td>Período de Inscrições na página do SiSU</td>
+</tr>
+<tr>
+    <td>22/02/2022</td>
+    <td>Resultado da chamada regular do SiSU 2022/1
+        * Publicação na página do SiSU e na página do Vestibular/UFOP</td>
+</tr>
+<tr>
+    <td>22/02 a 08/03/2022</td>
+    <td>Período de inscrições na Lista de Espera do SiSU</td>
+</tr>
+<tr>
+    <td>23/02 a 08/03/2022</td>
+    <td>Matrícula da chamada regular (1ª chamada), de acordo com o edital de convocação para pré-matrícula da UFOP</td>
+</tr>
+<tr>
+    <td>10/03/2022</td>
+    <td>Resultado da lista de espera do SiSU 2022/1</td>
+</tr>
+<tr>
+    <td>30/03/2022</td>
+    <td>Início das chamadas a partir da lista de espera do SiSU 2022/1
+
+        * <a href="https://vestibular.ufop.br/index.php?option=com_content&view=article&id=1146:cronograma-de-chamadas-e-matriculas-sisu-ufop-2022-1&catid=207:cronograma&Itemid=211">https://vestibular.ufop.br/index.php?option=com_content&view=article&id=1146:cronograma-de-chamadas-e-matriculas-sisu-ufop-2022-1&catid=207:cronograma&Itemid=211</a></td>
+</tr>
+</tbody>
+</table>
